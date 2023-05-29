@@ -1,4 +1,4 @@
-const data = [
+[
     {
         id: 0,
         title: "VBU - Zúčtovanie s orgánmi zdravotnej a sociálnej poisťovne",
@@ -505,4 +505,3 @@ const data = [
         info: "MD 042 | D 624",
     },
 ]
-export default data
